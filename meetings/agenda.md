@@ -6,3 +6,6 @@
 Please file pull requests to add, or discuss items to add, to the agenda.
 
 ## Items to discuss
+
+### New package: service-manager-inspector
+[PROPOSAL New laminas-servicemanager-inspector package](https://github.com/laminas/technical-steering-committee/issues/55)
